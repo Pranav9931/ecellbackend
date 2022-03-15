@@ -1,0 +1,36 @@
+[
+    {
+        "fName": "Mayank",
+        "lName": "Rai",
+        "officialEmail": "mr5626@srmist.edu.in",
+        "email": "raimayankjbp@gmail.com",
+        "mobNo": [
+          "+91",
+          6260161156
+        ],
+        "avatar": "https://gust-production.s3.amazonaws.com/uploads/startup/logo_image/1141987/1.jpg",
+        "coverImg": "https://media-exp1.licdn.com/dms/image/C5616AQHvDvQ-HBuRhA/profile-displaybackgroundimage-shrink_350_1400/0/1646800942356?e=1652313600&v=beta&t=f3cVgp8mO8jwx4y8cRDW81jamW2LSAO00hIQaCp67qc",
+        "role": "Co-Founder",
+        "dob": "03/01/2002",
+        "hasAccess": true,
+        "blogId": []
+    },
+
+    {
+        "fName": "Pranav",
+        "lName": "Kumar",
+        "officialEmail": "pk8797@srmist.edu.in",
+        "email": "pranavsandilya786@gmail.com",
+        "mobNo": [
+        "+91",
+        9852655772
+        ],
+        "avatar": "https://gust-production.s3.amazonaws.com/uploads/startup/logo_image/1141987/1.jpg",
+        "coverImg": "https://media-exp1.licdn.com/dms/image/C5616AQHvDvQ-HBuRhA/profile-displaybackgroundimage-shrink_350_1400/0/1646800942356?e=1652313600&v=beta&t=f3cVgp8mO8jwx4y8cRDW81jamW2LSAO00hIQaCp67qc",
+        "role": "Technical Head",
+        "dob": "23/10/2001",
+        "hasAccess": true,
+        "blogId": []
+    }
+  
+]
